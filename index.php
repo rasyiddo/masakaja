@@ -127,6 +127,13 @@
           <p>Mau masak tapi gak punya bahan? Tenang, kita bisa beliin bahan masakan yang kamu butuhkan</p>
         </div>
       </div>
+      <div class="col-md-3 text-center">
+        <div class="service-media"> <img src="img/services/service-4.jpg" alt=" "> </div>
+        <div class="service-desc">
+          <h3>iRecipe</h3>
+          <p>Jangan mau kalah dengan koki. Kamu juga bisa bikin resep sendiri lho</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
