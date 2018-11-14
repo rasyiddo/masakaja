@@ -81,14 +81,28 @@
     <div class="row">
       <div class="col-xs-12 col-md-6">
         <div class="about-text">
+
           <h2>Tentang <span>masak aja</span></h2>
           <hr>
           <p>masakaja adalah sebuah platform yang merupakan solusi bagi kamu yang bingung mau masak apa dengan bahan yang seadanya</p>
           <p>Nikmati pengalaman memasak yang menyenangkan dengan ribuan resep yang dapat kamu kreasikan dari bahan masakan yang kamu miliki</p>
           <a href="#services" class="btn btn-custom btn-lg page-scroll">Layanan masakaja</a> </div>
       </div>
+      
       <div class="col-xs-12 col-md-3">
-        <div class="about-media"> <img src="mockup.jpg" alt=" "> </div>
+        <div class="about-media"> <img src="black.jpg" alt=" "> </div>
+       <div class="about-desc">
+          <h3>Garden Care</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis.</p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-3">
+        <div class="about-media"> <img src="white.jpg" alt=" "> </div>
+        <div class="about-desc">
+          <h3>Lawn Care</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante.</p>
+        </div> 
+      </div>
     </div>
   </div>
 </div>
