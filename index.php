@@ -48,10 +48,10 @@
     
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about" class="page-scroll">About</a></li>
-        <li><a href="#services" class="page-scroll">Services</a></li>
-        <li><a href="#portfolio" class="page-scroll">Gallery</a></li>
-        <li><a href="#testimonials" class="page-scroll">Testimonials</a></li>
+        <li><a href="#about" class="page-scroll">Tentang Kami</a></li>
+        <li><a href="#services" class="page-scroll">Layanan</a></li>
+        <li><a href="#portfolio" class="page-scroll">Kreasi</a></li>
+        <li><a href="#testimonials" class="page-scroll">Kata Mereka</a></li>
         <li><a href="#contact" class="page-scroll">download</a></li>
       </ul>
     </div>
@@ -66,10 +66,10 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 intro-text">
-            <h1>masak aja yuk </h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-              Duis sed dapibus leo nec ornare diam.</p>
-            <a href="#about" class="btn btn-custom btn-lg page-scroll">More Info</a> </div>
+            <h1>Masak apa hari ini? </h1>
+            <p>Menjadikan momen memasak menjadi menyenangkan<br>
+              temukan ribuan resep masakan dengan bahan yang kamu punya</p>
+            <a href="#about" class="btn btn-custom btn-lg page-scroll">Penasaran?</a> </div>
         </div>
       </div>
     </div>
