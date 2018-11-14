@@ -88,7 +88,7 @@
           <a href="#services" class="btn btn-custom btn-lg page-scroll">Layanan masakaja</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
-        <div class="about-media"> <img src="mockup.png" alt=" "> </div>
+        <div class="about-media"> <img src="mockup.jpg" alt=" "> </div>
     </div>
   </div>
 </div>
@@ -107,7 +107,7 @@
           <h3>Lawn Care</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
         </div>
-      </div>
+      </div>jpg
       <div class="col-md-3 text-center">
         <div class="service-media"> <img src="img/services/service-2.jpg" alt=" "> </div>
         <div class="service-desc">
