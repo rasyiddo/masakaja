@@ -90,22 +90,13 @@
       </div>
       
       <div class="col-xs-12 col-md-3">
-        <div class="about-media"> <img src="img/black.jpg" alt=" "> </div>
-       <div class="about-desc">
-          <h3>Garden Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis.</p>
-        </div>
-      </div>
-      <div class="col-xs-12 col-md-3">
-        <div class="about-media"> <img src="img/white.jpg" alt=" "> </div>
-        <div class="about-desc">
-          <h3>Lawn Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante.</p>
-        </div> 
-      </div>
+        <div class="about-media"> <img src="img/mock.png" alt=" "> </div>
     </div>
   </div>
 </div>
+</div>
+</div>
+
 <!-- Services Section -->
 <div id="services">
   <div class="container">
