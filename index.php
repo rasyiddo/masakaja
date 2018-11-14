@@ -112,7 +112,7 @@
           <h3>Lawn Care</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
         </div>
-      </div>jpg
+      </div>
       <div class="col-md-3 text-center">
         <div class="service-media"> <img src="img/services/service-2.jpg" alt=" "> </div>
         <div class="service-desc">
