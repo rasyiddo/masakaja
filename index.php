@@ -89,7 +89,7 @@
           <a href="#services" class="btn btn-custom btn-lg page-scroll">Layanan masakaja</a> </div>
       </div>
       
-      <div class="col-xs-12 col-md-3">
+      <div class="col-xs-12 col-md-6">
         <div class="about-media"> <img src="img/mock.png" alt=" "> </div>
     </div>
   </div>
