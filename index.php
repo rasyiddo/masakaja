@@ -101,37 +101,30 @@
 <div id="services">
   <div class="container">
     <div class="col-md-10 col-md-offset-1 section-title text-center">
-      <h2>Our Services</h2>
+      <h2>Layanan Kami</h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <p>pastikan kamu menikmati semua layanan dari masakaja</p>
     </div>
     <div class="row">
       <div class="col-md-3 text-center">
         <div class="service-media"> <img src="img/services/service-1.jpg" alt=" "> </div>
         <div class="service-desc">
-          <h3>Lawn Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <h3>Recipe Library</h3>
+          <p>Ribuan resep siap menyambut kamu. Dijamin deh kamu bakal pusing mau masak apa </p>
         </div>
       </div>
       <div class="col-md-3 text-center">
         <div class="service-media"> <img src="img/services/service-2.jpg" alt=" "> </div>
         <div class="service-desc">
-          <h3>Landscape Design</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <h3>Cooking With Chef</h3>
+          <p>Nikmati pengalaman memasak dengan koki idolamu</p>
         </div>
       </div>
       <div class="col-md-3 text-center">
         <div class="service-media"> <img src="img/services/service-3.jpg" alt=" "> </div>
         <div class="service-desc">
-          <h3>Tree Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
-        </div>
-      </div>
-      <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-4.jpg" alt=" "> </div>
-        <div class="service-desc">
-          <h3>Spring & Fall Cleanup</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <h3>Swaline</h3>
+          <p>Mau masak tapi gak punya bahan? Tenang, kita bisa beliin bahan masakan yang kamu butuhkan</p>
         </div>
       </div>
     </div>
