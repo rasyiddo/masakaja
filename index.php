@@ -107,31 +107,31 @@
     </div>
     <div class="row">
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-1.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/1.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Recipe Library</h3>
           <p>Ribuan resep siap menyambut kamu. Dijamin deh kamu bakal pusing mau masak apa </p>
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-2.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/2.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Cooking With Chef</h3>
           <p>Nikmati pengalaman memasak dengan koki idolamu</p>
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-3.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/3.jpg" alt=" "> </div>
         <div class="service-desc">
           <h3>Swaline</h3>
           <p>Mau masak tapi gak punya bahan? Tenang, kita bisa beliin bahan masakan yang kamu butuhkan</p>
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <div class="service-media"> <img src="img/services/service-4.jpg" alt=" "> </div>
+        <div class="service-media"> <img src="img/services/4.jpg" alt=" "> </div>
         <div class="service-desc">
-          <h3>iRecipe</h3>
-          <p>Jangan mau kalah dengan koki. Kamu juga bisa bikin resep sendiri lho</p>
+          <h3>MyChef</h3>
+          <p>Follow dan favoritkan resep dari pengguna lain yang kamu sukai</p>
         </div>
       </div>
     </div>
@@ -141,18 +141,18 @@
 <div id="portfolio">
   <div class="container">
     <div class="section-title text-center center">
-      <h2>Project Gallery</h2>
+      <h2>KREASI</h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <p>Pastikan kamu mencoba semua kreasi masakan yang ada di masakaja</p>
     </div>
     <div class="categories">
       <ul class="cat">
         <li>
           <ol class="type">
-            <li><a href="#" data-filter="*" class="active">All</a></li>
-            <li><a href="#" data-filter=".lawn">Lawn Care</a></li>
-            <li><a href="#" data-filter=".garden">Garden Care</a></li>
-            <li><a href="#" data-filter=".planting">Planting</a></li>
+            <li><a href="#" data-filter="*" class="active">Semua</a></li>
+            <li><a href="#" data-filter=".lawn">Masakan Khas Indonesia</a></li>
+            <li><a href="#" data-filter=".garden">Jajanan</a></li>
+            <li><a href="#" data-filter=".planting">Minuman</a></li>
           </ol>
         </li>
       </ul>
