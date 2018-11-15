@@ -149,12 +149,12 @@
         <div class="col-md-10 col-md-offset-1">
           <div id="testimonial" class="owl-carousel owl-theme">
             <div class="item">
-              <h2>"Semenjak ada masakaja, Saya jadi makin semangat memasak. Hasilnya, Suami makin cepet pulang deh."</h2>
+              <h3>"Semenjak ada masakaja, Saya jadi makin semangat memasak. Hasilnya, Suami makin cepet pulang deh."</h3>
               <p>- Surti, Ibu Rumah Tangga</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- Jenny DOE, Parker County, TX</p>
+              <p>"Finally, Gw gak masak indomie lagi dech. Thanksss berat buat masakaja. mwach!"</p>
+              <p>- Aisah, Mahasiswi </p>
             </div>
             <div class="item">
               <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
