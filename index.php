@@ -174,25 +174,25 @@
 <div id="contact" class="text-center">
   <div class="container">
     <div class="section-title text-center">
-      <h2>Contact Us</h2>
+      <h2>Sapa Kami Dong</h2>
       <hr>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
+      <p>ada yang bilang kalau tak kenal maka tak sayang</p>
     </div>
     <div class="col-md-10 col-md-offset-1 contact-info">
       <div class="col-md-4">
         <h3>Address</h3>
         <hr>
         <div class="contact-item">
-          <p>4321 California St,</p>
-          <p>San Francisco, CA 12345</p>
+          <p>Di Jalan yang lurus</p>
+          <p>Jakarta sebelah pinggir</p>
         </div>
       </div>
       <div class="col-md-4">
-        <h3>Working Hours</h3>
+        <h3>Jam Kerja</h3>
         <hr>
         <div class="contact-item">
-          <p>Monday-Saturday: 07:00 - 18:00</p>
-          <p>Sunday: CLOSED</p>
+          <p>Senin - Jumat : Secapeknya</p>
+          <p>Sabtu : tutup</p>
         </div>
       </div>
       <div class="col-md-4">
@@ -200,7 +200,7 @@
         <hr>
         <div class="contact-item">
           <p>Phone: +1 123 456 1234</p>
-          <p>Email: info@company.com</p>
+          <p>Email: Hi@masakaja.com</p>
         </div>
       </div>
     </div>
