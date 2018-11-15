@@ -149,20 +149,20 @@
         <div class="col-md-10 col-md-offset-1">
           <div id="testimonial" class="owl-carousel owl-theme">
             <div class="item">
-              <h3>"Semenjak ada masakaja, Saya jadi makin semangat memasak. Hasilnya, Suami makin cepet pulang deh."</h3>
+              <h2>"Semenjak ada masakaja, Saya jadi makin semangat memasak. Hasilnya, Suami makin cepet pulang deh."</h2>
               <p>- Surti, Ibu Rumah Tangga</p>
             </div>
             <div class="item">
-              <p>"Finally, Gw gak masak indomie lagi dech. Thanksss berat buat masakaja. mwach!"</p>
+              <h2>"Finally, Gw gak masak indomie lagi dech. Thanksss berat buat masakaja. mwach!"</h2>
               <p>- Aisah, Mahasiswi </p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+              <h2>"masak jadi lebih hemat, uangnya bisa buat jalan - jalan ke Zimbabwe deh"</h2>
+              <p>- Venti, Traveler</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+              <h2>"Awalnya sih coba-coba, Eh taunya Joss banget nih Apps"</h2>
+              <p>- Mawar, nama samaran</p>
             </div>
           </div>
         </div>
@@ -242,7 +242,7 @@
           <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
         </ul>
       </div>
-      <p>&copy; 2016 Landscaper. Designed by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
+      <p>&copy; 2018 masakaja. Redesign by @rasyiddo template by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
     </div>
   </div>
 </div>
